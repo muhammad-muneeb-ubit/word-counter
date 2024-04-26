@@ -1,0 +1,20 @@
+{
+  "name": "muneeb-word-counter-786",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammad muneeb",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.19"
+  }
+}
